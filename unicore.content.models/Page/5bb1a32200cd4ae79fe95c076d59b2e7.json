@@ -4,14 +4,14 @@
   "language": "kin_RW", 
   "title": "Mparanira ko inzozi zanjye zaba impamo", 
   "primary_category": "08c0272513144c33b27f10e6bfca2217", 
-  "created_at": "2015-02-20T15:45:19.330526+00:00", 
+  "created_at": "2015-02-20T15:45:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-20T15:45:19.330705+00:00", 
+  "modified_at": "2015-02-20T15:48:50.559196+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Aurore", 
   "uuid": "5bb1a32200cd4ae79fe95c076d59b2e7"
