@@ -4,17 +4,19 @@
   "language": "kin_RW", 
   "title": "KUBERA IKI UKWIYE KWIGA CYANE?", 
   "primary_category": "718c7aadf01a4256bfc57c095d5ed255", 
-  "created_at": "2015-02-20T15:54:10.061173+00:00", 
+  "created_at": "2015-02-20T15:54:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-20T15:54:10.061359+00:00", 
+  "modified_at": "2015-02-20T15:54:34.321803+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9622ba36cda74e39b496018175791db9"
+  ], 
   "id": null, 
   "content": "**KUBERA IKI UKWIYE KWIGA CYANE? KUBERA KO BITUMA UGIRA EJO HAZAZA HEZA!**\r\n\r\n - Rimwe na rimwe ishuri rishobora kugorana, kandi biragoye gukurikirana amasomo menshi kandi atandukanye.  Ariko menya ko ubumenyi buhagije buzagufahsa nutangira gushaka uko washyira inzozi zawe mu bikorwa.\r\n - Igihe utari mu ishuri, shaka aho wakora amahugurwa cyangwa umuntu kugufasha kukungura ubumenyi bushya no kugera ku ntego zawe.  Shaka umuntu wo kwigiraho \u2013 uwo wigiraho, umwarimu cyangwa se umubyeyi. Kandi icyo gihe cyose usabe ubufasha ndetse n'ibitekerezo. \r\n - Intego ni ikintu ushaka kugeraho ku giti cyawe. Ni ngombwa ko ugira intego zawe mu buzima. Iyo uzigize, wiha gahunda ugomba kugenderaho kugira ngo uzigereho.  Buri gihe itwaze ikayi kugira ngo ugire ahantu hamwe wandika inzozi n\u2019intego byawe. Buri gihe ugenzure urwego ugezeho uzishyira mu bikorwa.\r\n - Ihe intego zizatuma wumva ushishikajwe n'amasomo cyangwa amahugurwa byawe. Urashaka gutsinda? Kuba uwa mbere mu ishuri? Cyangwa ukongera amanota ubona? Byandike ahantu maze ujye ubisoma kenshi.\r\n\r\n**Hari abantu bibwira ko hari akazi abagore batakora! Hari n'ibihugu ndetse bifite amategeko abigenzura. Ibyo Eugenie yabyimye amatwi. Soma inkuru ye hano:**", 
   "source": "f3712b13213548548f85465f304ceaab", 
